@@ -1,0 +1,83 @@
+
+.bus-list-container {
+    text-align: center;
+    padding: 20px;
+    background-color: #d2b48c;
+  }
+  
+  .form-label {
+    margin: 10px;
+    display: block;
+  }
+  
+  .form-input {
+    padding: 5px;
+    margin: 5px;
+    transition: border 0.3s, background-color 0.3s, color 0.3s;
+  }
+  
+  .form-input:hover {
+    border: 1px solid #8b4513;
+    background-color: #fff;
+    color: #8b4513;
+  }
+  
+  .form-button {
+    padding: 10px;
+    margin: 10px;
+    background-color: #8b4513;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .form-button:hover {
+    background-color: #fff;
+    color: #8b4513;
+  }
+  
+  .bus-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .bus-item {
+    border: 1px solid #8b4513;
+    padding: 10px;
+    margin: 5px;
+    transition: border 0.3s, background-color 0.3s, color 0.3s;
+  }
+  
+  .bus-item:hover {
+    border: 1px solid #fff;
+    background-color: #8b4513;
+    color: #fff;
+  }
+  
+  .bus-list-header {
+    color: #8b4513;
+  }
+  
+  .passengers-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .passenger-item {
+    border: 1px solid #8b4513;
+    padding: 10px;
+    margin: 5px;
+    transition: border 0.3s, background-color 0.3s, color 0.3s;
+  }
+  
+  .passenger-item:hover {
+    border: 1px solid #fff;
+    background-color: #8b4513;
+    color: #fff;
+  }
+  
+  .bus-form {
+    margin-top: 20px;
+  }
+  
