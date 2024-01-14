@@ -1,7 +1,7 @@
 # step 1 
 create a folder with any name and go inside the folder and run 
 
-`git clone https://github.com/pramod-1509-cs/react_mongo_learn.git`
+`git clone https://github.com/pramod-1509-cs/react-mysql.git`
 
 # step 2
 now run below cmds line by line
